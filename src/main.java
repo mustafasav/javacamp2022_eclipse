@@ -41,7 +41,7 @@ public class main {
 				System.out.println(okYonu);
 				
 				
-				String[] krediler = {"Hızlı Kredi", "Kamu Kredisi", "Mutlu Emekli"};
+				String[] krediler = {"Hızlı Kredi", "Kamu Kredisi", "Mutlu Emekli","Çiftçi Kredisi"};
 				
 				
 				for (int i = 0; i < krediler.length; i++) 
