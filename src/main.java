@@ -13,7 +13,7 @@ public class main {
 				int vade = 12;
 				
 				
-				double dolarDun = 18.14;
+				double dolarDun = 18.10;
 				double dolarBugun = 18.10;
 				
 				
